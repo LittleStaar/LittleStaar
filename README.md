@@ -3,12 +3,8 @@
 ###
 
 <h3 align="left">Sobre Mim</h3>
-
-###
-
 <br clear="both">
-
-<p align="left">- 🌱 Estudante de Informática para Internet<br>- 👯 Finalizando o terceiro ano no Sesi Paulista <br>- 😄 Pronomes: Ela/dela</p>
+<p align="left">🌱 Estudante de Informática para Internet<br>👯 Finalizando o terceiro ano no Sesi Paulista <br>😄 Pronomes: Ela/dela</p>
 
 ###
 
