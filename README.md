@@ -1,9 +1,7 @@
 <h1 align="left">Oie, eu sou Aline Kettylen!</h1>
 
 ###
-<h3 align="left">Sobre Mim</h3>
-<br clear="both">
-<h4 align="left">🌱 Estudante de Informática para Internet<br>👯 Finalizando o terceiro ano no Sesi Paulista <br>😄 Pronomes: Ela/dela</h4>
+<h2 align="left">🌱 Estudante de Informática para Internet<br>👯 Finalizando o terceiro ano no Sesi Paulista <br>😄 Pronomes: Ela/dela</h2>
 
 ###
 
