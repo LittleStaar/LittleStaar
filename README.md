@@ -2,13 +2,13 @@
 
 ###
 
-<h2 align="left">Sobre Mim</h2>
+<h3 align="left">Sobre Mim</h3>
 
 ###
 
 <br clear="both">
 
-<h3 align="left">- 🌱 Estudante de Informática para Internet<br>- 👯 Finalizando o terceiro ano no Sesi Paulista <br>- 😄 Pronomes: Ela/dela</h3>
+<p align="left">- 🌱 Estudante de Informática para Internet<br>- 👯 Finalizando o terceiro ano no Sesi Paulista <br>- 😄 Pronomes: Ela/dela</p>
 
 ###
 
@@ -18,7 +18,7 @@
 
 ###
 
-<h2 align="center">Estatísticas Gerais</h2>
+<h3 align="center">Estatísticas Gerais</h3>
 
 ###
 
@@ -33,7 +33,7 @@
 
 <br clear="both">
 
-<h2 align="center">Tecnologias que aprendi até o momento</h2>
+<h3 align="center">Tecnologias que aprendi até o momento</h3>
 
 ###
 
