@@ -11,7 +11,7 @@
 
 ###
 
-<h3 align="center">Estatísticas Gerais</h3>
+<h2 align="center">Estatísticas Gerais</h2>
 
 ###
 
@@ -26,7 +26,7 @@
 
 <br clear="both">
 
-<h3 align="center">Tecnologias que aprendi até o momento</h3>
+<h2 align="center">Tecnologias que aprendi até o momento</h2>
 
 ###
 
