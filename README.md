@@ -2,7 +2,23 @@
 
 ###
 
-<h4 align="left">🌱 Estudante de Informática para Internet<br>👯 Finalizando o terceiro ano no Sesi Paulista <br>😄 Pronomes: Ela/dela</h4>
+<h2 align="left">Sobre Mim</h2>
+
+###
+
+<br clear="both">
+
+<h3 align="left">- 🌱 Estudante de Informática para Internet<br>- 👯 Finalizando o terceiro ano no Sesi Paulista <br>- 😄 Pronomes: Ela/dela</h3>
+
+###
+
+<div align="center">
+  <img height="300" src="https://s4.ezgif.com/tmp/ezgif-4-6e41942529.gif"  />
+</div>
+
+###
+
+<h2 align="center">Estatísticas Gerais</h2>
 
 ###
 
@@ -15,11 +31,13 @@
 
 ###
 
-<p align="left">Tecnologias</p>
+<br clear="both">
+
+<h2 align="center">Tecnologias que aprendi até o momento</h2>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
