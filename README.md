@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">*🌱 Estudante de Informática para Internet<br>*👯 Finalizando o terceiro ano no Sesi Paulista <br>*😄 Pronomes: Ela/dela</h4>
+<h4 align="left">🌱 Estudante de Informática para Internet<br>👯 Finalizando o terceiro ano no Sesi Paulista <br>😄 Pronomes: Ela/dela</h4>
 
 ###
 
